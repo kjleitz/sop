@@ -1,4 +1,4 @@
-import invert from './invert';
+import invert from '../invert';
 
 const foo: string = 'wait, dude'; // eslint-disable-line @typescript-eslint/no-inferrable-types
 
